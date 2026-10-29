@@ -38,9 +38,8 @@ When you run one, a **black window** opens. This is normal! You will type some w
 | `start-class.bat` | Asks for your nickname, then creates (or opens) **your own branch** |
 | `end-class.bat` | Sends your work to GitHub and cleans the computer for the next student |
 
-These files were made by your teacher. They are safe. 😊
 
-> 🔒 Please **do not edit, move, or delete** these files. Other students need them too.
+> Please **do not edit, move, or delete** these files. Other students need them too.
 
 ---
 
@@ -53,7 +52,7 @@ These files were made by your teacher. They are safe. 😊
 3. It will ask if your nickname is correct. Type **Y** and press **Enter**.
 4. Wait until you see the final message. Then press any key to close the window.
 
-✅ **Done!** You now have your own universe (your branch). 🌌
+✅ **Done!** You now have your own universe (your branch). 
 
 ---
 
@@ -70,7 +69,7 @@ On the left side you will see the project files. This is the **Explorer**.
 
 Click **Terminal → New Terminal** (or press **Ctrl + `**).
 
-A panel opens at the bottom. This is the **terminal**: a place where you type commands. It is already inside your project folder. 🎉
+A panel opens at the bottom. This is the **terminal**: a place where you type commands. It is already inside your project folder. 
 
 ---
 
@@ -152,7 +151,7 @@ In the Explorer (left side), open the folders **`activities` → `exercise-1`**.
 
 ### Step 3: Create `style.css`
 
-CSS is the file that gives **colors and style** to your page. 🎨
+CSS is the file that gives **colors and style** to your page. 
 
 1. Right-click the `exercise-1` folder again → **New File**.
 2. Name it **`style.css`**.
