@@ -1,7 +1,5 @@
 # Exercise 1: Getting to know GitHub and VS Code
 
-# Exercise 1: Getting to know GitHub and VS Code
-
 ⏱️ **Time:** about 45 minutes
 🎯 **Goal:** create your first web page and send it to GitHub from your own branch.
 
