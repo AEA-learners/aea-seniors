@@ -302,7 +302,7 @@ The computer is now clean for the next student.
 
 ---
 
-## 📖 New words from today
+## Useful vocabulary
 
 | Word | Meaning |
 |---|---|
