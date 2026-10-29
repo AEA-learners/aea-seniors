@@ -1,13 +1,12 @@
 # Exercise 1: Getting to know GitHub and VS Code
 
-⏱️ **Time:** about 45 minutes
-🎯 **Goal:** create your first web page and send it to GitHub from your own branch.
+ **Goal:** create your first web page and send it to GitHub from your own branch.
 
-> 💡 **Tip:** you are reading this file in VS Code. Press **Ctrl + Shift + V** to see it in a nicer, formatted view.
+>  **Tip:** you are reading this file in VS Code. Press **Ctrl + Shift + V** to see it in a nicer, formatted view.
 
 ---
 
-## 🧭 What you will learn
+## What you will learn
 
 - What a `.bat` file is (and how to use it safely)
 - How to open a project folder in VS Code
@@ -17,7 +16,7 @@
 
 ---
 
-## 🦊 Before you start: the golden rules
+##  Before you start: the rules
 
 1. Use **only your nickname**. Never your real name.
 2. Work **only in your own branch**.
@@ -181,11 +180,11 @@ li {
 
 1. In the Explorer, **right-click `index.html`**.
 2. Click **Reveal in File Explorer**.
-3. **Double-click `index.html`**. Your page opens in the browser! 🌐
+3. **Double-click `index.html`**. Your page opens in the browser! 
 
 Want to change something? Edit the file in VS Code, press **Ctrl + S**, and **refresh** the browser page (**F5**).
 
-> 🎨 **Try it:** change `lightblue` to another color, like `pink`, `lightgreen`, or `orange`.
+>  **Try it:** change `lightblue` to another color, like `pink`, `lightgreen`, or `orange`.
 
 ---
 
@@ -201,7 +200,7 @@ git status
 
 You will see your new files in **red**. Git is saying: *"I see these new files, but I'm not tracking them yet."*
 
-### 2. Put your files in the box 📦
+### 2. Put your files in the box 
 
 ```
 git add .
@@ -217,7 +216,7 @@ git status
 
 Now the files are **green**. They are in the box, ready to be sealed.
 
-### 4. Seal the box with a label 🏷️
+### 4. Seal the box with a label 
 
 ```
 git commit -m "Add my favorite genre page"
@@ -225,7 +224,7 @@ git commit -m "Add my favorite genre page"
 
 This creates a **save point** (a *commit*) on your computer. The text between the quotes is the label. Write what you did.
 
-### 5. Send it to GitHub 🚀
+### 5. Send it to GitHub 
 
 ```
 git push
@@ -233,7 +232,7 @@ git push
 
 This uploads your save point to GitHub. Your teacher can now see it!
 
-### 6. See your history 📜
+### 6. See your history 
 
 ```
 git log
@@ -241,13 +240,13 @@ git log
 
 You will see your commit with **your nickname** and your message. Press **Q** to leave this screen.
 
-🎉 **Congratulations! You just did your first add → commit → push.**
+You just did your first add → commit → push.**
 
-👉 **Show your screen to your teacher before you continue.**
+**Show your screen to your teacher before you continue.**
 
 ---
 
-## ⭐ Bonus mission
+##  Bonus mission
 
 1. Change something in your page (a color, a new sentence, a fourth example).
 2. Save with **Ctrl + S**.
@@ -271,9 +270,9 @@ git push
 4. Wait for the message that says your work was sent. If you see an **ERROR** message, **do not close the window** and call your teacher.
 5. Press any key to close.
 
-> ℹ️ It may say *"nothing to commit"*. That is fine! It means you already sent everything. 👍
+> ℹ️ It may say *"nothing to commit"*. That is fine! It means you already sent everything. 
 
-✅ The computer is now clean for the next student.
+The computer is now clean for the next student.
 
 ---
 
@@ -316,5 +315,3 @@ git push
 | **Commit** | Seal the box with a label (a save point) 🏷️ |
 | **Push** | Send your commits to GitHub 🚀 |
 | **Log** | The history of your commits 📜 |
-
-Great job today! 💻✨
