@@ -1,16 +1,14 @@
-# 🌌 AEA SENIORS
+# AEA SENIORS
 
-### A friendly guide to Git & GitHub for our class
-
-Hi there! 👋
+### A guide to Git & GitHub for our class
 
 This page explains **how GitHub works** and what all those strange words mean: *push, pull, clone, fork, branch, pull request*... By the end, they will sound like normal words.
 
-You don't need to memorize anything. Read it once, come back whenever you get confused. In each lesson, your teacher will tell you **exactly** what to do, so this guide is just the map. 🗺️
+You don't need to memorize anything. Read it once, come back whenever you get confused. In each lesson, your teacher will tell you **exactly** what to do, so this guide is just the map. 
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 1. [The Problem We Are Solving](#-the-problem-we-are-solving)
 2. [Git vs. GitHub](#-git-vs-github)
@@ -26,7 +24,7 @@ You don't need to memorize anything. Read it once, come back whenever you get co
 
 ---
 
-## 🎯 The Problem We Are Solving
+##  The Problem We Are Solving
 
 Imagine **20 people writing one story together**, each on their own computer.
 
@@ -39,7 +37,7 @@ Without a system, this is chaos. With Git and GitHub, it becomes calm, organized
 
 ---
 
-## 🧰 Git vs. GitHub
+##  Git vs. GitHub
 
 People mix these two up all the time. They are **different things**:
 
@@ -52,7 +50,7 @@ People mix these two up all the time. They are **different things**:
 
 ---
 
-## 📚 The Dictionary
+##  The Dictionary
 
 Here are the most important words, in plain English:
 
@@ -80,7 +78,7 @@ This is the **most important idea** in this guide. Take your time here.
 
 A **branch** is a separate copy of the project where you can **make changes freely**, without touching anybody else's work.
 
-Think of a movie multiverse 🎬: there is one **main timeline**, and heroes can jump into **parallel universes** to try risky things. If something explodes 💥 in the parallel universe, the main timeline is still safe.
+Think of a movie multiverse: there is one **main timeline**, and heroes can jump into **parallel universes** to try risky things. If something explodes in the parallel universe, the main timeline is still safe.
 
 That's exactly what a branch is.
 
@@ -103,10 +101,10 @@ While you are working in your branch, **main does not change**, and nobody else'
 
 ### Why do branches exist?
 
-- 🛡️ **Safety:** you can experiment and break things without breaking the project.
-- 👥 **Teamwork:** 20 people can work at the same time without stepping on each other's toes.
-- 🔍 **Clarity:** it's easy to see who did what, and when.
-- 🧹 **Organization:** one branch per task, per person, or per idea.
+-  **Safety:** you can experiment and break things without breaking the project.
+-  **Teamwork:** 20 people can work at the same time without stepping on each other's toes.
+-  **Clarity:** it's easy to see who did what, and when.
+-  **Organization:** one branch per task, per person, or per idea.
 
 ### Branches in our class
 
@@ -123,11 +121,11 @@ Your computer is already prepared, and your lessons will tell you what to do. Al
 ### The life of a branch
 
 ```
-1. 🌱 Create the branch      →  a new universe is born
-2. ✏️  Work and commit        →  create things, take snapshots
-3. 🚀 Push the branch        →  upload your universe to GitHub
-4. 🚪 Pull Request (optional) →  ask to join main
-5. 🧬 Merge                   →  your changes become part of the main timeline
+1.  Create the branch      →  a new universe is born
+2.   Work and commit        →  create things, take snapshots
+3.  Push the branch        →  upload your universe to GitHub
+4.  Pull Request (optional) →  ask to join main
+5.  Merge                   →  your changes become part of the main timeline
 ```
 
 ### Quick branch facts
@@ -139,7 +137,7 @@ Your computer is already prepared, and your lessons will tell you what to do. Al
 
 ---
 
-## 📦 The Journey of Your Code
+##  The Journey of Your Code
 
 Imagine you are **shipping a package** to the cloud. Your code goes through four stops:
 
